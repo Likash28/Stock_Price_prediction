@@ -1,4 +1,4 @@
-# 📈 **Stock Price Prediction with Deep Learning Models** 🤖
+📈 # **Stock Price Prediction with Deep Learning Models** 🤖
 
 Imagine you're on a journey to unlock the secrets of financial markets and make data-driven decisions about stock investments. 🚀
 
