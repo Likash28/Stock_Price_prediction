@@ -1,4 +1,4 @@
-📈 **Stock Price Prediction with Deep Learning Models** 🤖
+# 📈 **Stock Price Prediction with Deep Learning Models** 🤖
 
 Embark on a fascinating journey to unravel the mysteries of financial markets and make informed decisions about stock investments. 🚀
 
@@ -27,6 +27,4 @@ pip install tensorflow-intel==2.14.0
 
 *Note*: Ensure to handle any potential dependency conflicts during installation.
 
-📈 **Invest with Confidence**: Empowered with deep learning insights, navigate the stock market with confidence. Make data-backed investment decisions and strive for financial success. 💰
-
-🤝 Join the thrilling realm of stock price prediction with deep learning models and unlock the potential for intelligent decision-making in financial markets! 🌟
+💹 **Invest with Confidence**: Empowered with deep learning insights, navigate the stock market with confidence. Make data-backed investment decisions and strive for financial success. 💰
