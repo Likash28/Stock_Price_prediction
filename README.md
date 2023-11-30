@@ -1,7 +1,3 @@
-Certainly! Here's the complete content:
-
----
-
 🚀 **Currency Exchange Rate Prediction with Advanced Machine Learning Models** 🌐
 
 Embark on a captivating journey to uncover the intricacies of currency markets and make well-informed decisions about foreign exchange investments. 💹
