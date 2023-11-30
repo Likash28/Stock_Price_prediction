@@ -1,3 +1,7 @@
+Certainly! Here's the complete content:
+
+---
+
 🚀 **Currency Exchange Rate Prediction with Advanced Machine Learning Models** 🌐
 
 Embark on a captivating journey to uncover the intricacies of currency markets and make well-informed decisions about foreign exchange investments. 💹
@@ -10,13 +14,19 @@ Embark on a captivating journey to uncover the intricacies of currency markets a
 
 🧠 **Model Architecture:** Define your model's architecture, including layers, cell types, and parameters, for LSTM, GRU, Bidirectional LSTM, and their variations. Optimize for both accuracy and efficiency. 🏗️
 
-📚 **Training the Model:** Utilize sci-kit-learn and TensorFlow to build, train, and fine-tune your machine learning models on historical currency exchange rate data, including LSTM, GRU, Bidirectional LSTM, and their variations. 🛠️
+📚 **Training the Model:** Utilize scikit-learn and TensorFlow to build, train, and fine-tune your machine learning models on historical currency exchange rate data, including LSTM, GRU, Bidirectional LSTM, and their variations. 🛠️
 
 📆 **Time-Series Forecasting:** Leverage your trained models, including LSTM, GRU, Bidirectional LSTM, and their variations, to predict future currency exchange rates. Gain insights into the dynamics of currency markets for informed decision-making. 📉
 
 🔄 **Simulation:** Conduct multiple simulations to evaluate your models' performance, experimenting with different hyperparameters, epochs, and architectures, including LSTM, GRU, Bidirectional LSTM, and their variations, to enhance accuracy. 🔄
 
 📊 **Results Visualization:** Visualize simulation outcomes using Matplotlib. Compare predicted exchange rates with actual trends to gauge your models' effectiveness, including LSTM, GRU, Bidirectional LSTM, and their variations. 📊
+
+🤖 **Scikit-learn Installation (for reference):**
+
+```bash
+pip install scikit-learn==0.24.2
+```
 
 Note: Ensure to manage any potential dependency conflicts during installation.
 
