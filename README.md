@@ -14,7 +14,7 @@ Embark on a captivating journey to uncover the intricacies of currency markets a
 
 🧠 **Model Architecture:** Define your model's architecture, including layers, cell types, and parameters, for LSTM, GRU, Bidirectional LSTM, and their variations. Optimize for both accuracy and efficiency. 🏗️
 
-📚 **Training the Model:** Utilize scikit-learn and TensorFlow to build, train, and fine-tune your machine learning models on historical currency exchange rate data, including LSTM, GRU, Bidirectional LSTM, and their variations. 🛠️
+📚 **Training the Model:** Utilize sci-kit-learn and TensorFlow to build, train, and fine-tune your machine learning models on historical currency exchange rate data, including LSTM, GRU, Bidirectional LSTM, and their variations. 🛠️
 
 📆 **Time-Series Forecasting:** Leverage your trained models, including LSTM, GRU, Bidirectional LSTM, and their variations, to predict future currency exchange rates. Gain insights into the dynamics of currency markets for informed decision-making. 📉
 
